@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE library SYSTEM "library_DTD.dtd">
+<library>
+  <book_catalog>
+    <book id="a" isbn="226611156" year="2021" issue="translation">
+		  <authors>
+			  <author>Билл Гейтс</author>
+		  </authors>
+		  <title>&linux;&internet;</title>
+		  <publishing/>
+		  <annotation/>
+    </book>
+  </book_catalog>
+  <author_catalog>
+    <author_book idref="a">Билл Гейтс</author_book>
+  </author_catalog>
+</library>
