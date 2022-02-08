@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+
+<xs:myschema xmlns:xs="http://www.w3.org/2001/XMLSchema" >
+	<xs:element name="timetable">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="LessonTitle" type="xs:string"/>
+				<xs:element name="TutorLastName" type="xs:string"/>
+				<xs:element name="LessonTime" type="xs:string"/>
+				<xs:element name="LessonStartDate" type="xs:string"/>
+				<xs:element name="LessonEndDate" type="xs:string"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:myschema>

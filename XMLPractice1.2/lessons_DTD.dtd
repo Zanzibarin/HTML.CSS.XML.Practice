@@ -1,0 +1,9 @@
+<?xml version = "1.0"?>
+<!DOCTYPE lesson [
+<!ELEMENT lesson (LessonTitle, TutorLastName, LessonTime, LessonStartDate, LessonEndDate)>
+<!ELEMENT LessonTitle (#PCDATA)> 
+<!ELEMENT TutorLastName (#PCDATA)> 
+<!ELEMENT LessonTime (#PCDATA)> 
+<!ELEMENT LessonStartDate (#PCDATA)> 
+<!ELEMENT LessonEndDate (#PCDATA)>
+]

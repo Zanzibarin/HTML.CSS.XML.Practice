@@ -1,0 +1,22 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<!DOCTYPE lesson SYSTEM "library_DTD.dtd">
+<book_catalog>
+	<book>
+		<book id = "1"/>
+		<book isbn = "226611156"/>
+		<book year = "2021"/>
+		<book issue = "translation"/>
+		<authors>
+			<author></author>
+		</authors>
+		<title>&linux; &internet;</title>
+		<publishing></publishing>
+		<annotation></annotation>
+		<author_catalog>
+			<author_book>
+				<author_book idref = "34653466"/>
+			</author_book>
+		</author_catalog>
+		
+	</book>
+</book_catalog>
